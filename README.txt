@@ -4,6 +4,7 @@ Hi guys
 Team name: Group21 
 Team members: 
 Joy Ye 300168065
+Taha Houssari 300175366
 
 Product name: Planit
 Product description: 
