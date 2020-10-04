@@ -1,3 +1,13 @@
 This a test with.
-welcome to the project
+welcome to the Group21 project!
 Hi guys 
+Team name: Group21 
+Team members: 
+Joy Ye 300168065
+
+Product name: Planit
+Product description: 
+Exploring the world/Planet through better way
+Personalized travel guide (gives maps, history, food locations, local laws, etc).
+		
+
