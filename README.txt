@@ -5,7 +5,7 @@ Team name: Group21
 Team members: 
 Joy Ye 300168065
 Taha Houssari 300175366
-
+Yosri Ketata 300174152
 Product name: Planit
 Product description: 
 Exploring the world/Planet through better way
