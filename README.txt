@@ -6,6 +6,7 @@ Team members:
 Joy Ye 300168065
 Taha Houssari 300175366
 Yosri Ketata 300174152
+Kyle Ng 300193918
 Product name: Planit
 Product description: 
 Exploring the world/Planet through better way
