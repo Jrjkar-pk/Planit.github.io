@@ -3,41 +3,40 @@ body {
 
  }
 
- h1{
-     color:white;
-     font-family:Helvetica,Helvetica,Arial,sans-serif;
-     font-weight: 700;
-     text-align:center;
-     font-size: 400%;
-     
- }
- h2{
-    color:white;
-    font-family:Arial, Helvetica, sans-serif;
-    font-weight: normal;
-    text-align:center;
-    font-size: 200%;
- }
-.header a{
-    font-family: Arial, Helvetica, sans-serif;
+/*header*/
+
+.menu-header {
+    display:flex;
+    justify-content:center;
+
+}
+.menu a{
+    align-content: space-evenly;
+    padding: 10px;
+    text-decoration:none;
     font-weight: bold;
     font-size: large;
     color:white;
-    text-decoration:none;
-    display: inline;
-}
-img{
-    text-align:center;
-    display:block;
-    margin-left:auto;
-    margin-right:auto;
-}
-.left-header{
-    margin-left: 10%;
-    text-align:left;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
-.right-header{
-    margin-right:10%;
-    text-align:right;
+
+
+/*main*/
+h1{
+    color:white;
+    font-family:Helvetica,Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    text-align:center;
+    font-size: 400%;
+    
 }
+h2{
+   color:white;
+   font-family:Arial, Helvetica, sans-serif;
+   font-weight: normal;
+   text-align:center;
+   font-size: 200%;
+}
+
+/*footer*/
