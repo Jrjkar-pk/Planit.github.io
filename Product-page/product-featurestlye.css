@@ -55,3 +55,14 @@ padding: 8px 22px;
     position:absolute;
     color:#fff;
 }
+.app-text{
+    width: 50%;
+    float: left;
+}
+.app-text h1{
+    font-size: 42px;
+    width: 640px;
+    position: relative;
+    margin-left: 40 px;
+
+}
