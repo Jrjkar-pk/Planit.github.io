@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html> <!--I don't know how to put the logo from the docs-->
+
+<title> Planit </title>
+<body>
+    <style>
+        @keyframes tester {
+            from {background-color: blue;}
+            to {background-color: yellow;}
+        }
+        
+    body{
+        border: 2px solid rgb(5, 7, 100);
+        background-color:black;
+        background-image: url(Black.jpg);
+        background-position: left top;
+        background-repeat: no-repeat
+        padding: 30px;
+        font-family:Arial, Helvetica, sans-serif
+      
+    </style>
+<style>
+h1,p,h2,ol{
+    color:white  
+}
+h1{
+    text-align:center
+}
+p{
+    font-size: 25px;
+    text-align: center;
+}
+</style>
+
+    <h1>Welcome to Planit!</h1>
+<p>Planit ia a web-site, suggesting the customer to travel in the best country </p>
+<br>
+<br>
+<br>
+<h2> Why choosing us?</h2>
+
+
+<img src="logo1.PNG" alt="Planit logo" style="width:110px;height:100px;">
+<ol> 
+    <li>Price: we suggest you to travel while having the possibility to make lots
+        of savings
+    </li>
+    <li>Choose with ease: Travel, save</li>
+    <li>Trust: We trust you</li>
+    <li>Reputation: Our excellent service created some good influence</li>
+
+
+</ol>
+
+
+
+</body>
+
+</html>
